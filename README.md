@@ -12,7 +12,7 @@ Hub de Leitura Teste UI
 ### 1. Clone o Repositório e entre na pasta
 
 ```bash
-git clone https://github.com/EBAC-QE/hub-de-leitura-integrado.git
+https://github.com/alexgrocha/Hub_de_Leitura_Teste_UI.git
 cd hub-de-leitura-integrado
 ```
 
