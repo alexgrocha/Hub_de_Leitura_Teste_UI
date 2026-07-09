@@ -1,7 +1,8 @@
 describe('Funcionalidade: Contato', () => {
 
  beforeEach(() => {
-  cy.visit('http://localhost:3000/index.html')
+  //Rodando no site, neste caso apenas no index, mas poderia ter o endereço todo.
+  cy.visit('index.html')
  });
 
   //Comando only para rodar apenas esse teste
